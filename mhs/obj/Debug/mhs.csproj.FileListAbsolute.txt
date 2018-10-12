@@ -1,0 +1,9 @@
+E:\1044\3\mhs\mhs\bin\Debug\mhs.exe.config
+E:\1044\3\mhs\mhs\bin\Debug\mhs.exe
+E:\1044\3\mhs\mhs\bin\Debug\mhs.pdb
+E:\1044\3\mhs\mhs\obj\Debug\mhs.csprojResolveAssemblyReference.cache
+E:\1044\3\mhs\mhs\obj\Debug\mhs.data_mahasiswa.resources
+E:\1044\3\mhs\mhs\obj\Debug\mhs.Properties.Resources.resources
+E:\1044\3\mhs\mhs\obj\Debug\mhs.csproj.GenerateResource.Cache
+E:\1044\3\mhs\mhs\obj\Debug\mhs.exe
+E:\1044\3\mhs\mhs\obj\Debug\mhs.pdb
